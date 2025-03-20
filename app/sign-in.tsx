@@ -22,7 +22,7 @@ const SignIn = () => {
           </Text>
 
           <Text className="text-lg font-rubik text-black-200 text-center mt-12">
-            Login to RNEstate with Google
+            Login to EstateGo with Google
           </Text>
 
           <TouchableOpacity onPress={handleLogin} className="bg-white shadow-md shadow-zinc-300 rounded-full w-full py-4 mt-5">
